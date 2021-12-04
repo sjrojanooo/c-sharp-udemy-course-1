@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/bin/Debug/net5.0/method-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/bin/Debug/net5.0/method-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/bin/Debug/net5.0/method-challenge.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/bin/Debug/net5.0/method-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/bin/Debug/net5.0/ref/method-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/bin/Debug/net5.0/method-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/ref/method-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/method-challenge/obj/Debug/net5.0/method-challenge.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/bin/Debug/net5.0/user-input.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/bin/Debug/net5.0/user-input.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/bin/Debug/net5.0/user-input.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/bin/Debug/net5.0/user-input.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/bin/Debug/net5.0/ref/user-input.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/bin/Debug/net5.0/user-input.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/ref/user-input.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/user-input/obj/Debug/net5.0/user-input.genruntimeconfig.cache

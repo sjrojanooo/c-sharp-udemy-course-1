@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/bin/Debug/net5.0/tryCatch.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/bin/Debug/net5.0/tryCatch.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/bin/Debug/net5.0/tryCatch.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/bin/Debug/net5.0/tryCatch.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/bin/Debug/net5.0/ref/tryCatch.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/bin/Debug/net5.0/tryCatch.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/ref/tryCatch.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/tryCatch/obj/Debug/net5.0/tryCatch.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/bin/Debug/net5.0/data-type-and-variables.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/bin/Debug/net5.0/data-type-and-variables.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/bin/Debug/net5.0/data-type-and-variables.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/bin/Debug/net5.0/data-type-and-variables.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/bin/Debug/net5.0/ref/data-type-and-variables.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/bin/Debug/net5.0/data-type-and-variables.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/ref/data-type-and-variables.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/data-type-and-variables/obj/Debug/net5.0/data-type-and-variables.genruntimeconfig.cache
