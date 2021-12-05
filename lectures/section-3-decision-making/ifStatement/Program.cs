@@ -88,7 +88,7 @@ namespace ifStatement
             
         }
 
-        // The method is public which mean it can be used anywhere in the program; 
+        // The method is public which means it can be used anywhere in the program; 
         // I will not have a return type so I will be using void to return the message; 
         // The name of the method is WeatherReaction and finally my paramter that will be used is 
         // an int variable for weatherInput recieved from the user. 
