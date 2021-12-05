@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/bin/Debug/net5.0/operators.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/bin/Debug/net5.0/operators.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/bin/Debug/net5.0/operators.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/bin/Debug/net5.0/operators.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/bin/Debug/net5.0/ref/operators.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/bin/Debug/net5.0/operators.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/ref/operators.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/obj/Debug/net5.0/operators.genruntimeconfig.cache

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = methods
-build_property.ProjectDir = /Users/stevenrojano/c-sharp-udemy-course-1/lectures/methods/
+build_property.ProjectDir = /Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/methods/

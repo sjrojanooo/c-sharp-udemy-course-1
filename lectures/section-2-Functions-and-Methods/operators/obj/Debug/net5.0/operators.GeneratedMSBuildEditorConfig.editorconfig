@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = data_type_and_variables
-build_property.ProjectDir = /Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-1-DataType-and-Variables/data-type-and-variables/
+build_property.RootNamespace = operators
+build_property.ProjectDir = /Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-2-Functions-and-Methods/operators/
