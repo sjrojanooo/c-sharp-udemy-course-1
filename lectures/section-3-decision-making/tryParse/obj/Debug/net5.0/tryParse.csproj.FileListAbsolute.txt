@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/bin/Debug/net5.0/tryParse.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/bin/Debug/net5.0/tryParse.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/bin/Debug/net5.0/tryParse.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/bin/Debug/net5.0/tryParse.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/bin/Debug/net5.0/ref/tryParse.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/bin/Debug/net5.0/tryParse.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/ref/tryParse.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/tryParse/obj/Debug/net5.0/tryParse.genruntimeconfig.cache

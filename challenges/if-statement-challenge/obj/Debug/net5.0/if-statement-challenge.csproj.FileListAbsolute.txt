@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/bin/Debug/net5.0/if-statement-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/bin/Debug/net5.0/if-statement-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/bin/Debug/net5.0/if-statement-challenge.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/bin/Debug/net5.0/if-statement-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/bin/Debug/net5.0/ref/if-statement-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/bin/Debug/net5.0/if-statement-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/ref/if-statement-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge/obj/Debug/net5.0/if-statement-challenge.genruntimeconfig.cache

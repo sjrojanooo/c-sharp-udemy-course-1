@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/bin/Debug/net5.0/nestedIfStatements.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/bin/Debug/net5.0/nestedIfStatements.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/bin/Debug/net5.0/nestedIfStatements.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/bin/Debug/net5.0/nestedIfStatements.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/bin/Debug/net5.0/ref/nestedIfStatements.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/bin/Debug/net5.0/nestedIfStatements.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/ref/nestedIfStatements.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-3-decision-making/nestedIfStatements/obj/Debug/net5.0/nestedIfStatements.genruntimeconfig.cache

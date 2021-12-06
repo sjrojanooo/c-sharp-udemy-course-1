@@ -48,7 +48,7 @@ namespace operators
 
             //Modulo operator will return the remainder of the quotient;
             //I've only grazed this operator in skim reading but its always stood out to me;
-            //Instructor does say it is very useful in programming so I'm eager to see the specific use cases it will provide. 
+            //Instructor does say it is very useful in programming so I'm eager to see the specific use cases it will provide;
             result = num1 % num2; 
             Console.WriteLine("result of num1 % num2 is {0}", result);
             
