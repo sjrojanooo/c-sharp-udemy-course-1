@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/bin/Debug/net5.0/basicLoops.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/bin/Debug/net5.0/basicLoops.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/bin/Debug/net5.0/basicLoops.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/bin/Debug/net5.0/basicLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/bin/Debug/net5.0/ref/basicLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/bin/Debug/net5.0/basicLoops.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/ref/basicLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/basicLoops/obj/Debug/net5.0/basicLoops.genruntimeconfig.cache
