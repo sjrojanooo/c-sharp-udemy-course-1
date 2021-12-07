@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/bin/Debug/net5.0/ternary-operator-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/bin/Debug/net5.0/ternary-operator-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/bin/Debug/net5.0/ternary-operator-challenge.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/bin/Debug/net5.0/ternary-operator-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/bin/Debug/net5.0/ref/ternary-operator-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/bin/Debug/net5.0/ternary-operator-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ref/ternary-operator-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/ternary-operator-challenge/obj/Debug/net5.0/ternary-operator-challenge.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ternary-operator-challenge/1.0.0": {
+        "runtime": {
+          "ternary-operator-challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ternary-operator-challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
