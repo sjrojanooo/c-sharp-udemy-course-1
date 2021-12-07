@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/bin/Debug/net5.0/if-statement-challenge-2.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/bin/Debug/net5.0/if-statement-challenge-2.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/bin/Debug/net5.0/if-statement-challenge-2.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/bin/Debug/net5.0/if-statement-challenge-2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/bin/Debug/net5.0/ref/if-statement-challenge-2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/bin/Debug/net5.0/if-statement-challenge-2.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/ref/if-statement-challenge-2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/if-statement-challenge-2/obj/Debug/net5.0/if-statement-challenge-2.genruntimeconfig.cache
