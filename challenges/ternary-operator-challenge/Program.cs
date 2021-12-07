@@ -17,10 +17,18 @@ namespace ternary_operator_challenge
 
         Make sure to use ternary operators and not if statements to check for the three conditions, however you can use if statement for the other conditions like to check if the entered value is a valid integer or not.
     */
+
+    
     class Program
     {
 
         static string stateofTemperature; 
+
+        //creating another independent challenge that will verify if the user has been approved for credit
+        //depending on their credit score 
+
+        static string approvalMessage; 
+
         static void Main(string[] args)
         {
 
@@ -41,6 +49,22 @@ namespace ternary_operator_challenge
                 Console.WriteLine("Not a valid temperature"); 
             }
 
+
+            //simple programe that displays users credit score message upon entering thier score. 
+            //calling the method credit score inside the conditional statement.
+            System.Console.WriteLine("please enter your credit score");
+            int creditScore; 
+            bool successfulInput = int.TryParse(Console.ReadLine(), out creditScore);
+
+            if (successfulInput)
+            {
+                CreditApproval(creditScore);
+            }
+            else
+            {
+                System.Console.WriteLine("Not a valid score.");
+            }
+
             Console.Read(); 
 
         }
@@ -59,8 +83,25 @@ namespace ternary_operator_challenge
             //true 
             "it is too cold" : 
             //false
-            ""; 
+            "";
             Console.WriteLine(stateofTemperature); 
+        }
+        // decided to run another method to see if the indivdual qualified for a credit car 
+
+        public static void CreditApproval(int num)
+        {
+            approvalMessage = num >= 850 ? 
+            "amazing credit. you have been approved for 20,000":
+            (num < 850 && num >= 600) ? 
+            "good credit. you have been approved for 10,000": 
+            (num < 600 && num >=450) ? 
+            "fair credit. you get 2000": 
+            num < 450 ?
+            "improve your credit score please.":
+             "";
+
+            Console.WriteLine(approvalMessage);
+
         }
     }
 }
