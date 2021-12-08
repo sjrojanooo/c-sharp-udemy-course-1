@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/bin/Debug/net5.0/BreakAndContinue.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/bin/Debug/net5.0/BreakAndContinue.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/bin/Debug/net5.0/BreakAndContinue.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/bin/Debug/net5.0/BreakAndContinue.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/bin/Debug/net5.0/ref/BreakAndContinue.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/bin/Debug/net5.0/BreakAndContinue.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/ref/BreakAndContinue.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/BreakAndContinue/obj/Debug/net5.0/BreakAndContinue.genruntimeconfig.cache

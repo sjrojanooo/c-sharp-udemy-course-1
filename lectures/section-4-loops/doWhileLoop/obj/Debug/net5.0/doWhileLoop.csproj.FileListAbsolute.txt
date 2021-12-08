@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/bin/Debug/net5.0/doWhileLoop.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/bin/Debug/net5.0/doWhileLoop.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/bin/Debug/net5.0/doWhileLoop.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/bin/Debug/net5.0/doWhileLoop.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/bin/Debug/net5.0/ref/doWhileLoop.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/bin/Debug/net5.0/doWhileLoop.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/ref/doWhileLoop.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-4-loops/doWhileLoop/obj/Debug/net5.0/doWhileLoop.genruntimeconfig.cache
