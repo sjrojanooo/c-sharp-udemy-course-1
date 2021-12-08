@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/bin/Debug/net5.0/loops-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/bin/Debug/net5.0/loops-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/bin/Debug/net5.0/loops-challenge.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/bin/Debug/net5.0/loops-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/bin/Debug/net5.0/ref/loops-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/bin/Debug/net5.0/loops-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/ref/loops-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/loops-challenge/obj/Debug/net5.0/loops-challenge.genruntimeconfig.cache
