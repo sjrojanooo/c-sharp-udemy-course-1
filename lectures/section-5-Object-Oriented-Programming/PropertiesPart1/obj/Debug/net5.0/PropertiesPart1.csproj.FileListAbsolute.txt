@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/bin/Debug/net5.0/PropertiesPart1.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/bin/Debug/net5.0/PropertiesPart1.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/bin/Debug/net5.0/PropertiesPart1.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/bin/Debug/net5.0/PropertiesPart1.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/bin/Debug/net5.0/ref/PropertiesPart1.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/bin/Debug/net5.0/PropertiesPart1.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/ref/PropertiesPart1.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/PropertiesPart1/obj/Debug/net5.0/PropertiesPart1.genruntimeconfig.cache
