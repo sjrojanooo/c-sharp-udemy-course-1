@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/bin/Debug/net5.0/WhileLoop2.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/bin/Debug/net5.0/WhileLoop2.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/bin/Debug/net5.0/WhileLoop2.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/bin/Debug/net5.0/WhileLoop2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/bin/Debug/net5.0/ref/WhileLoop2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/bin/Debug/net5.0/WhileLoop2.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/ref/WhileLoop2.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/independent-challenges/WhileLoop2/obj/Debug/net5.0/WhileLoop2.genruntimeconfig.cache
