@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/bin/Debug/net5.0/MultipleConstructors.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/bin/Debug/net5.0/MultipleConstructors.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/bin/Debug/net5.0/MultipleConstructors.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/bin/Debug/net5.0/MultipleConstructors.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/bin/Debug/net5.0/ref/MultipleConstructors.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/bin/Debug/net5.0/MultipleConstructors.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/ref/MultipleConstructors.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/MultipleConstructors/obj/Debug/net5.0/MultipleConstructors.genruntimeconfig.cache
