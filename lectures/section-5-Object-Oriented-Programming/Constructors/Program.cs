@@ -13,7 +13,9 @@ namespace Constructors
         static void Main(string[] args)
         {
             // using the constructor method to assing property types to our new human; 
-            Human brother = new Human("Michal", "Rojano"); 
+            Human brother = new Human("Michal", "Rojano", "brown", 34); 
+            Human twinFlame = new Human("Caity", "Turner", "hazel", 29);
+            Human thiago = new Human("Thiage", "Rojano", "blue", 1); 
 
             // calling the IntroduceMyself method from class Human to output an introduction method; 
 
@@ -24,6 +26,8 @@ namespace Constructors
             */
 
             brother.IntroduceMyself(); 
+            twinFlame.IntroduceMyself(); 
+            thiago.IntroduceMyself(); 
 
             // example of what I explained above; 
             WriteLine("please enter a whole number value"); 
@@ -38,7 +42,7 @@ namespace Constructors
                 WriteLine("Format Exception. Please enter a correct value");
             }
 
-            
+
             // waits for the enter key pressed to exit the program, but still provides and output to the console; 
             ReadKey(); 
 
