@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/bin/Debug/net5.0/FirstClass.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/bin/Debug/net5.0/FirstClass.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/bin/Debug/net5.0/FirstClass.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/bin/Debug/net5.0/FirstClass.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/bin/Debug/net5.0/ref/FirstClass.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/bin/Debug/net5.0/FirstClass.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/ref/FirstClass.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/FirstClass/obj/Debug/net5.0/FirstClass.genruntimeconfig.cache
