@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/bin/Debug/net5.0/property-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/bin/Debug/net5.0/property-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/bin/Debug/net5.0/property-challenge.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/bin/Debug/net5.0/property-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/bin/Debug/net5.0/ref/property-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/bin/Debug/net5.0/property-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/ref/property-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/property-challenge/obj/Debug/net5.0/property-challenge.genruntimeconfig.cache
