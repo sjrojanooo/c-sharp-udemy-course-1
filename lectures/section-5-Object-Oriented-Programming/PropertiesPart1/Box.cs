@@ -23,10 +23,9 @@ namespace PropertiesPart1
         // commenting this public member variable and providing the property value with a getter and setter; 
         // public int width; 
         private int height; 
-
+        // defining member variable volume as private; 
         private int volume; 
 
-        // defining another property for volume; 
 
         // volume is never set and is always calculated. it would not make sense to provide a setter method;
         // since the variable is dependent on the value of the other variables; 
@@ -37,6 +36,8 @@ namespace PropertiesPart1
                 return this.length * this.height * this.Width;
             }
         }
+
+
 
         // we can even define the property without having a member variable; 
         /*

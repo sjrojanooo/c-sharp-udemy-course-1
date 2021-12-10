@@ -30,7 +30,7 @@ namespace PropertiesPart1
             // WriteLine("-----------------");
             // after creating the getter GetVolume we can now call that method to access the value of the boxes volume; 
             // we aren't giving the value of the volume itself, but instead we are providing the result of the calculation; 
-            // could be useful when providing some personal info? maybe? we can provide records, but not access to those records; 
+            // could be useful when providing some summarized totals that should not be altered; 
 
 
             // we are now accessing the volume property directly;
