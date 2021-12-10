@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/bin/Debug/net5.0/Members.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/bin/Debug/net5.0/Members.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/bin/Debug/net5.0/Members.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/bin/Debug/net5.0/Members.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/bin/Debug/net5.0/ref/Members.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/bin/Debug/net5.0/Members.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/ref/Members.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-5-Object-Oriented-Programming/Members/obj/Debug/net5.0/Members.genruntimeconfig.cache
