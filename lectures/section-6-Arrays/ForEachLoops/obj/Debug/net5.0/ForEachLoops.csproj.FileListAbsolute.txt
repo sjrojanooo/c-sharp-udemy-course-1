@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/bin/Debug/net5.0/ForEachLoops.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/bin/Debug/net5.0/ForEachLoops.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/bin/Debug/net5.0/ForEachLoops.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/bin/Debug/net5.0/ForEachLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/bin/Debug/net5.0/ref/ForEachLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/bin/Debug/net5.0/ForEachLoops.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ref/ForEachLoops.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/ForEachLoops/obj/Debug/net5.0/ForEachLoops.genruntimeconfig.cache
