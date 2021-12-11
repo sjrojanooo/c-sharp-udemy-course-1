@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/bin/Debug/net5.0/foreach-loop-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/bin/Debug/net5.0/foreach-loop-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/bin/Debug/net5.0/foreach-loop-challenge.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/bin/Debug/net5.0/foreach-loop-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/bin/Debug/net5.0/ref/foreach-loop-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/bin/Debug/net5.0/foreach-loop-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/ref/foreach-loop-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/foreach-loop-challenge/obj/Debug/net5.0/foreach-loop-challenge.genruntimeconfig.cache
