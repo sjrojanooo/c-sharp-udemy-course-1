@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/bin/Debug/net5.0/MoreArrays.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/bin/Debug/net5.0/MoreArrays.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/bin/Debug/net5.0/MoreArrays.runtimeconfig.dev.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/bin/Debug/net5.0/MoreArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/bin/Debug/net5.0/ref/MoreArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/bin/Debug/net5.0/MoreArrays.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/ref/MoreArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/MoreArrays/obj/Debug/net5.0/MoreArrays.genruntimeconfig.cache
