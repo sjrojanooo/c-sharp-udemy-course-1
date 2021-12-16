@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/bin/Debug/net6.0/jaggedArrays
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/bin/Debug/net6.0/jaggedArrays.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/bin/Debug/net6.0/jaggedArrays.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/bin/Debug/net6.0/jaggedArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/bin/Debug/net6.0/ref/jaggedArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/bin/Debug/net6.0/jaggedArrays.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/ref/jaggedArrays.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/jaggedArrays/obj/Debug/net6.0/jaggedArrays.genruntimeconfig.cache
