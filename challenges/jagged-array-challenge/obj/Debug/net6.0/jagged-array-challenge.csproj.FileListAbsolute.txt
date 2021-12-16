@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/bin/Debug/net6.0/jagged-array-challenge
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/bin/Debug/net6.0/jagged-array-challenge.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/bin/Debug/net6.0/jagged-array-challenge.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/bin/Debug/net6.0/jagged-array-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/bin/Debug/net6.0/ref/jagged-array-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/bin/Debug/net6.0/jagged-array-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/ref/jagged-array-challenge.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/challenges/jagged-array-challenge/obj/Debug/net6.0/jagged-array-challenge.genruntimeconfig.cache
