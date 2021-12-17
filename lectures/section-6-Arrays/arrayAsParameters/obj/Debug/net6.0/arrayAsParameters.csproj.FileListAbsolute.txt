@@ -1,0 +1,15 @@
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.csproj.AssemblyReference.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.AssemblyInfoInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.AssemblyInfo.cs
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.csproj.CoreCompileInputs.cache
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/bin/Debug/net6.0/arrayAsParameters
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/bin/Debug/net6.0/arrayAsParameters.deps.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/bin/Debug/net6.0/arrayAsParameters.runtimeconfig.json
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/bin/Debug/net6.0/arrayAsParameters.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/bin/Debug/net6.0/ref/arrayAsParameters.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/bin/Debug/net6.0/arrayAsParameters.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/ref/arrayAsParameters.dll
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.pdb
+/Users/stevenrojano/c-sharp-udemy-course-1/lectures/section-6-Arrays/arrayAsParameters/obj/Debug/net6.0/arrayAsParameters.genruntimeconfig.cache
